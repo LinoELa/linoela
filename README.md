@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+TypeScript;IoT+and+Automation+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
----
+
 
 # 👋 Hola, soy Lino Ela
 
@@ -15,15 +15,7 @@
 
 🚀 Me gusta trabajar con **backend, APIs, automatización y sistemas conectados**.
 
----
 
-# 👀 Visitas al perfil
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lino-ela&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
 
 # 🧠 Sobre mí
 
@@ -41,7 +33,7 @@
 ### Lenguajes
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
+![TypeScript](https://skillicons.dev/icons?i=ts)a
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
 
@@ -74,8 +66,8 @@
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
----
 
+---
 
 # ⭐ Proyectos destacados
 
@@ -87,7 +79,7 @@
 | Sistema  de Cerraduras Inteligentes | Arquitectura para sistemas de cerraduras inteligentes | NestJS, TypeScript |
 | JSONLens | Herramienta para visualización y manipulación de JSON | JavaScript, React, Express |
 
----
+
 
 # 🤝 Colaboraciones
 
@@ -106,7 +98,6 @@ Estoy abierto a colaborar en proyectos de:
 https://www.linkedin.com/in/lino-ela/
 
 
----
 
 # ⚡ Fun fact
 
